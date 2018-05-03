@@ -1,0 +1,36 @@
+# Tools specific ignores
+
+# Maven
+target/
+
+# Windows folder file
+.folder
+.DS_Store
+
+#Jetbrains Idea
+.idea/
+out/
+*.iml
+*.ipr
+*.iws
+*.ids
+
+# Eclipse
+.settings/
+.metadata/
+.project
+.classpath
+classes/
+bin/
+test-output/
+
+#Kdiff3
+*.orig
+
+# backup files
+*.*~
+*.bak
+*.bak.jade
+*.bak.js
+*.bak.scss
+*.log

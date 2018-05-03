@@ -1,0 +1,9 @@
+client:
+  ipsapi:
+    address: http://s7sps1apissl.scene7.com:80/scene7/services/IpsApiService
+
+scene7:
+  abc:
+    userid: [user id]
+    password: [password]
+    companyHandle: [company handle]
